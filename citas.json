@@ -19,5 +19,12 @@
     "tipo": "perro",
     "color": "negro",
     "enfermedad": "mordida"
+  },
+  {
+    "nombre": "miky",
+    "edad": "12 años",
+    "tipo": "perro",
+    "color": "cafe",
+    "enfermedad": "enfermedad por edad"
   }
 ]
