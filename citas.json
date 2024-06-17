@@ -1,0 +1,23 @@
+[
+  {
+    "nombre": "Benito",
+    "edad": "2 años",
+    "tipo": "perro",
+    "color": "blanco",
+    "enfermedad": "vomitos"
+  },
+  {
+    "nombre": "copo",
+    "edad": "3 años",
+    "tipo": "gato",
+    "color": "blanco",
+    "enfermedad": "indigestion"
+  },
+  {
+    "nombre": "tor",
+    "edad": "5 años",
+    "tipo": "perro",
+    "color": "negro",
+    "enfermedad": "mordida"
+  }
+]
